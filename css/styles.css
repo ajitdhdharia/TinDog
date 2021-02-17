@@ -1,0 +1,53 @@
+body{
+    font-family: 'Ubuntu', sans-serif;;
+}
+
+#title{
+    background-color: #30e3ca;
+}
+
+/* NavBar */
+.navbar-brand{
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.forNavbar{
+    margin: 0 0 5% 0;
+    padding: 0;
+}
+
+/* Title */
+h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #ffffff;
+
+}
+
+.container-fluid{
+    padding: 3% 8%;
+}
+
+
+/* Buttons */
+
+.btnAndroid{
+    margin-left: 5%;
+}
+
+/* Title Image */
+.landingImage{
+    text-align: right;
+    
+}
+
+/* Features */
+#features{
+    padding-top: 5%;
+}
+
+.appFeature{
+    text-align: center;
+}
+
