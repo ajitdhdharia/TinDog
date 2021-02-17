@@ -49,5 +49,17 @@ h1{
 
 .appFeature{
     text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
+.featuresH3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 5%;
+}
+
+.featuresDesc{
+    color: #8f8f8f;
+    padding-bottom: 5%;
+}
