@@ -122,6 +122,22 @@ h3 {
   padding-bottom: 3%;
 }
 
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
 /* Footer */
 #footer {
   font-size: 1rem;
