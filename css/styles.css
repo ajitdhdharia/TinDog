@@ -1,65 +1,136 @@
-body{
-    font-family: 'Ubuntu', sans-serif;;
+body {
+  font-family: "Ubuntu", sans-serif;
 }
 
-#title{
-    background-color: #30e3ca;
+#title {
+  background-color: #30e3ca;
 }
 
 /* NavBar */
-.navbar-brand{
-    font-size: 2.5rem;
-    margin: 0;
+.navbar-brand {
+  font-size: 2.5rem;
+  margin: 0;
 }
 
-.forNavbar{
-    margin: 0 0 5% 0;
-    padding: 0;
+.forNavbar {
+  margin: 0 0 5% 0;
+  padding: 0;
 }
 
 /* Title */
-h1{
-    font-size: 3.5rem;
-    line-height: 1.5;
-    color: #ffffff;
-
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #ffffff;
 }
 
-.container-fluid{
-    padding: 3% 8%;
+.container-fluid {
+  padding: 0% 8% 3%;
 }
-
 
 /* Buttons */
 
-.btnAndroid{
-    margin-left: 5%;
+.btnAndroid {
+  margin-left: 5%;
 }
 
 /* Title Image */
-.landingImage{
-    text-align: right;
-    
+.landingImage {
+  text-align: right;
 }
 
 /* Features */
-#features{
-    padding-top: 5%;
+#features {
+  padding-top: 5%;
 }
 
-.appFeature{
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
+.appFeature {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-.featuresH3{
-    font-size: 1.5rem;
-    font-weight: bold;
-    padding-top: 5%;
+.featuresH3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-top: 5%;
 }
 
-.featuresDesc{
-    color: #8f8f8f;
-    padding-bottom: 5%;
+.featuresDesc {
+  color: #8f8f8f;
+  padding-bottom: 5%;
+}
+
+.icon:hover {
+  color: #ffffff;
+}
+
+/* Testimonial */
+#testimonials {
+  background-color: #30e3ca;
+  text-align: center;
+  padding: 5% 15% 5%;
+  color: #ffffff;
+}
+
+h2 {
+  font-weight: normal;
+  padding-bottom: 2%;
+}
+
+.testimonialImage {
+  width: 15%;
+  height: auto;
+  border-radius: 100%;
+}
+
+em {
+  margin-left: 3%;
+}
+.carousel-control-next {
+  right: -150px;
+  bottom: -100px;
+}
+
+.carousel-control-prev {
+  left: -150px;
+  bottom: -100px;
+}
+
+/* press */
+#press {
+  padding: 3% 5%;
+  background-color: #30e3ca;
+  text-align: center;
+}
+
+.pressLogo {
+  width: 10%;
+  height: auto;
+  margin: 0% 5%;
+}
+
+/* Call to Action */
+#cta {
+  padding: 3% 5%;
+  background-color: #30e3ca;
+  text-align: center;
+  color: #ffffff;
+}
+
+h3 {
+  padding-bottom: 3%;
+}
+
+/* Footer */
+#footer {
+  font-size: 1rem;
+  text-align: center;
+  padding: 1% 0;
+  color: #8f8f8f;
+}
+
+.footerIcon {
+  margin: 1% 1%;
+  color: #000000;
 }
